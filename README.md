@@ -1,23 +1,23 @@
-# Hi there, I'm Natasha Salim 👋 
+# Hii, I'm Natasha Salim  
 **Cloud Infrastructure | Database & REST API Automation | System Engineering**
 
-📍 Taipei, Taiwan | ✉️ Natashasalim2003@gmail.com | 🌐 [LinkedIn](https://linkedin.com) | 💻 [GitHub](https://github.com)
+Taipei, Taiwan | Natashasalim2003@gmail.com | [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/natasha-salim-4ab5762a1/)) | [GitHub]([https://github.com](https://github.com/anatloh))
 
 ---
 
-## 🚀 Technical Summary
+## Technical Summary
 Goal-oriented Computer Science & Engineering graduate with hands-on experience in **Azure Cloud Infrastructure**, **Database Management**, and **REST API Automation**. Currently managing IT operations and POS system network infrastructure across **85+ enterprise retail locations** while maintaining **99.9% system availability**.
 
-* ☁️ **Cloud & Infrastructure:** Azure Administration, Virtual Machines, POS System Architecture, IIS/Nginx
-* 🗄️ **Databases & Data:** SQL (Querying & Synchronization), SQLite3, PostgreSQL, Data Auditing
-* 🐍 **Development & Automation:** Python (Pandas, Automation Scripts), REST APIs, JSON Webhooks, C#
-* 🌐 **Networking & Systems:** Cisco Networking (LAN/WAN), Firewall/VPN, Linux/Windows Administration
+*  **Cloud & Infrastructure:** Azure Administration, Virtual Machines, POS System Architecture, IIS/Nginx
+*  **Databases & Data:** SQL (Querying & Synchronization), SQLite3, PostgreSQL, Data Auditing
+*  **Development & Automation:** Python (Pandas, Automation Scripts), REST APIs, JSON Webhooks, C#
+*  **Networking & Systems:** Cisco Networking (LAN/WAN), Firewall/VPN, Linux/Windows Administration
 
 ---
 
-## 🛠️ Key Technical Projects
+## Key Technical Projects
 
-### 🛍️ 1. Multi-Location Cloud POS & Real-Time Database Sync Architecture
+### 1. Multi-Location Cloud POS & Real-Time Database Sync Architecture
 * **Overview:** Designed and maintained cross-branch infrastructure for 85+ enterprise retail locations (J&G Group).
 * **Key Achievements:**
   * Maintained **99.9% system availability** across Azure-hosted database and POS networks.
@@ -27,7 +27,7 @@ Goal-oriented Computer Science & Engineering graduate with hands-on experience i
 
 ---
 
-### 📊 2. Personal Finance & Portfolio Data Tracking Pipeline
+### 2. Personal Finance & Portfolio Data Tracking Pipeline
 * **Overview:** Built an end-to-end local data pipeline and visual analytics dashboard to manage and analyze personal expenditure and financial metrics.
 * **Key Achievements:**
   * Developed automated data extraction and transformation pipelines using **Pandas**.
@@ -37,7 +37,7 @@ Goal-oriented Computer Science & Engineering graduate with hands-on experience i
 
 ---
 
-### 🏭 3. Enterprise ERP Log Auditing & Support Automation
+### 3. Enterprise ERP Log Auditing & Support Automation
 * **Overview:** Supported large-scale semiconductor manufacturing ERP operations across 6 core departments (Nanya Technology).
 * **Key Achievements:**
   * Conducted system log audits between local workstations and central DB servers, achieving **99.9% data accuracy**.
@@ -46,7 +46,7 @@ Goal-oriented Computer Science & Engineering graduate with hands-on experience i
 
 ---
 
-## 📜 Certifications & Credentials
+## Certifications & Credentials
 
 | Category | Certification / Credential | Provider |
 | :--- | :--- | :--- |
@@ -59,7 +59,7 @@ Goal-oriented Computer Science & Engineering graduate with hands-on experience i
 
 ---
 
-## 🌏 Languages
+## Languages
 * **English:** Professional / Advanced (TOEIC Listening & Reading)
 * **Mandarin:** Conversational (TOCFL A2)
 * **Indonesian:** Native / Fluent
